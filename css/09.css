@@ -1,2 +1,5 @@
 /* 9.- Primer Elemento Después */
 
+.admin div + p { /* Se le agrega el signo de mas + para ser mas especifico */
+    background-color: red;
+}

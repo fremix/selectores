@@ -1,0 +1,12 @@
+/* 10.- Atributo */
+
+a[href$=".com"] {
+    /* Para aplicar una regla especifica, cuando inicia,  de agrega el signo ^ y 
+    cuando finalizan agregar el signo de $
+    entre comillas a lo que se le quiere aplicar la regla */
+    color: red;
+}
+
+input[type="tel"] {
+    border: 2px solid silver;
+}

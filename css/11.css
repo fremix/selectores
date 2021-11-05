@@ -1,0 +1,6 @@
+/* 11.- Primer Hijo de una lista */
+
+ul li:first-child { /* tambien se puede usar la siguiente sentencia :first-of-type */
+    border: 2px solid red;
+
+}
