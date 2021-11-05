@@ -1,0 +1,11 @@
+/* 15.- Primer Letra y Linea */
+
+.primer-letra::first-letter { /* Para aplicar estilo a la primera letra */
+    color: red;
+    font-size: 20px;
+}
+
+.primer-linea::first-line { /* Para darle estilo a la primera linea */
+    color: red;
+    font-size: 4rem;
+}

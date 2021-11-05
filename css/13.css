@@ -1,1 +1,9 @@
 /* 13.- Elemento en Especifico */
+
+
+ul li:nth-child(3n + 1) { /* Una opcion puede ser (2n + 1 ), el uno puede ser modificado 
+    dependiendo el numero que desee obtener/aplicar
+    otra opcion puede ser (odd= para numeros impares o even = para numeros pares)*/
+    border: 2px solid red;
+
+}
