@@ -1,0 +1,7 @@
+/* 8.- Primer Nivel de Hijos */
+
+.admin>div {
+    /* para lograr aplicar la regla en el 1er nivel de hijos 
+    se le agrega el signo de mayor que > */
+    border: 2px solid red;
+}

@@ -1,0 +1,14 @@
+/* 5.- Selector de ID */
+
+#encabezado { /* cuando se usa un ID se le pone un signo de numeral # */
+    text-transform: uppercase;
+    color: brown;
+}
+
+.texto {
+    color: blue;
+}
+
+#encabezado.texto { /* Se puede mezclar el ID con la clase y su espeficidad es aun mayor, debe ser pegada y con un punto. */
+    color: tomato;
+}

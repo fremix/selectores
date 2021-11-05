@@ -1,0 +1,12 @@
+/* 4.- Selector de Clases Anidadas */
+
+.header .descripcion { /* Es una clase hijo siempre debe llevar un espacio entre ellas, 
+                        este tipo de selectores tiene mayor especificidad */
+    color: red;
+
+}
+
+.descripcion {
+    color: royalblue;
+}
+

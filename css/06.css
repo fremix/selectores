@@ -1,0 +1,7 @@
+/* 6.- Selector de Etiqueta y Clase */
+
+div.texto { /* El orden es importante, debe ser primero la etiqueta 
+            seguida y pegada del punto y luego la clase */
+    background-color: yellow;
+
+}

@@ -1,0 +1,24 @@
+/* 3.- Selector de 2 Clases */
+
+.texto {
+    background-color: red;
+}
+
+.azul {
+    color: royalblue;
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+.mayusculas.texto {
+    font-size: 10rem;
+}
+
+.texto.azul { /* Si hay 2 clases juntas se debe poner un punto entre ellas, sin espacio */
+    text-align: right;
+}
+
+
+
